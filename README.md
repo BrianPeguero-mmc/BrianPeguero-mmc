@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Brian Peguero
-- 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning Python, React, d3.js
+- 👀 I am a fullstack developmer at MMC
 
 <!---
 BrianPeguero-mmc/BrianPeguero-mmc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
